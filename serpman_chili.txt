@@ -2,5 +2,6 @@ Meat
 Onions
 Chili Powder
 Other Stuff
-Cook It
+Cook It for 1 hour
+Optional: Add Peppers for some spice
 Eat It
